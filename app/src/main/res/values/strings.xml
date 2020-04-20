@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">MgA63I1d6UP6XQKxKwUfa4Lb2d0jNygGpSVne0l1</string>
+    <string name="back4app_client_key">L0WRKcdSsiwpWWkOAGls0WyLE4nT9MtRXYNCxZd9</string>
+
+</resources>
